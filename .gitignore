@@ -1,1 +1,5 @@
 .idea
+config-local.ini
+
+__pycache__/
+model/__pycache__/
